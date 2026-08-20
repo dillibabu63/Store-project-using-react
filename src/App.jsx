@@ -1,7 +1,7 @@
-import ProductCard from "./Components/ProductCard";
-import Navbar from "./Components/Navbar";
-import CartDrawer from "./Components/CartDrawer";
-import WishlistDrawer from "./Components/WishlistDrawer";
+import ProductCard from "./components/ProductCard";
+import Navbar from "./components/Navbar";
+import CartDrawer from "./components/CartDrawer";
+import WishlistDrawer from "./components/WishlistDrawer";
 import { useState, useMemo } from "react";
 
 import "./App.css";
